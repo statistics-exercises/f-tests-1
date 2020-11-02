@@ -2,7 +2,7 @@
 
 We have now been using the flow chart below to perform these hypothesis tests for some time.
 
-![](hypo-testing.003.png)
+![](hypo-testing.003.jpeg)
 
 In all the tests we have performed thus far, however, the null hypothesis has been that the expectation takes a particular value.  In this series of exercises, we are thus going to consider hypothesis tests for investigating whether or not the variance of the distribution is consistent with some model distribution. 
 
